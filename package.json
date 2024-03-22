@@ -1,6 +1,6 @@
 {
     "name": "productjs",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Product manager",
     "main": "index.js",
     "scripts": {
@@ -10,5 +10,13 @@
     "license": "MIT",
     "dependencies": {
         "monijs": "^1.0.4"
-    }
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ondercsn/productjs.git"
+    },
+    "bugs": {
+        "url": "https://github.com/ondercsn/productjs/issues"
+    },
+    "homepage": "https://github.com/ondercsn/productjs"
 }
